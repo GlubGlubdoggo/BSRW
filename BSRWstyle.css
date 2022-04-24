@@ -22,6 +22,6 @@ button {
 button:hover {
   cursor: pointer;
 }
-tr {
-  border: solid black 1px;
+table, th, td {
+  border: 1px solid black;
 }
