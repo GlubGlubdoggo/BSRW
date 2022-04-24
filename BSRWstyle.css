@@ -1,19 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&family=Water+Brush&display=swap');
 body {
   background-color: blue;
+  font-family: 'Walter Turncoat';
+  margin: 0;
+  justify-content: center;
 }
 h1 {
   font-family: 'Water Brush';
 }
-p {
-  font-family: 'Walter Turncoat';
-}
 button {
   border-color: red;
   background-color: red;
+  border-radius: 20px;
   color: #00FF00;
 }
 button:hover {
-  boder-radius: 20px;
   cursor: pointer;
 }
