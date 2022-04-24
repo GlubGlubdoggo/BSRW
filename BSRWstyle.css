@@ -3,6 +3,7 @@ body {
   background-color: blue;
   margin: 0;
   align-content: center;
+  font-size: 14px;
 }
 #content {
   font-family: 'Walter Turncoat';
