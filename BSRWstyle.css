@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&family=Water+Brush&display=swap');
 body {
   background-color: blue;
-  font-family: 'Walter Turncoat';
   margin: 0;
-  justify-content: center;
+  align-content: center;
+}
+#content {
+  font-family: 'Walter Turncoat';
 }
 h1 {
   font-family: 'Water Brush';
