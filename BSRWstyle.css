@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&family=Water+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&family=Water+Brush&family=Oswald&display=swap');
 body {
   background-color: blue;
   margin: 0;
@@ -11,10 +11,11 @@ h1 {
   font-family: 'Water Brush';
 }
 button {
+  font-family: 'Oswald';
   border-color: red;
   background-color: red;
   border-radius: 20px;
-  color: #00FF00;
+  color: #0000FF;
 }
 button:hover {
   cursor: pointer;
