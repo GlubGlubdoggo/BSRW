@@ -7,7 +7,7 @@ body {
   text-align: center;
   color: white;
 }
-#invisible {
+#invisible p {
   color: #242526;
 }
 #content {
@@ -21,7 +21,7 @@ button {
   border-color: #242526;
   background-color: #18191A;
   border-radius: 20px;
-  color: #242526;
+  color: #000000;
   font-size: 30px;
 }
 button:hover {
