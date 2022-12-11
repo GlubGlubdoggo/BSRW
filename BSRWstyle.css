@@ -7,6 +7,9 @@ body {
   text-align: center;
   color: white;
 }
+.invisible {
+  color: #18191A;
+}
 #content {
   font-family: 'Walter Turncoat';
 }
