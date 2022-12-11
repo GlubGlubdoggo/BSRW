@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&family=Water+Brush&family=Oswald&display=swap');
 body {
-  background-image: url('images/image0.png');
+  background-color: #18191A;
   margin: 0;
   align-content: center;
   font-size: 30px;
@@ -15,10 +15,10 @@ h1 {
 }
 button {
   font-family: 'Oswald';
-  border-color: red;
-  background-color: red;
+  border-color: #242526;
+  background-color: #18191A;
   border-radius: 20px;
-  color: #0000FF;
+  color: ##242526;
   font-size: 30px;
 }
 button:hover {
