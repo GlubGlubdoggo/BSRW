@@ -24,7 +24,7 @@ button {
 }
 button:hover {
   cursor: pointer;
-  padding: 20px 60px;
+  padding: 10px 30px;
 }
 table, th, td {
   border: 1px solid black;
